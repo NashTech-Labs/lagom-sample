@@ -1,0 +1,1 @@
+INSERT INTO PERSON values(1,"himani");
